@@ -1,0 +1,11 @@
+empaquetar numeros por array, 
+donde la suma de ellos no excedan 
+el valor del mayor numero dentro del array
+
+
+const source = [1, 1, 2, 1, 3, 2];
+
+// output [1,1,1], [2],[2],[3]
+
+
+
